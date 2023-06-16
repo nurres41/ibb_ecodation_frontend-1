@@ -1,9 +1,50 @@
-/* *{
+/* 
+    Project One Page
+    Author  : Nuri Onur Kurtulus
+    Date    : 14 / June / 2023
+    Version : v1
+*/
 
-} */
+/*##############################################*/
+/* Root */
 
-/* html{} */
+/*##############################################*/
+/* Common Property */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 15px;
+}
 
 body{
     font-family: 'Manrope', sans-serif;
+    line-height: 1.2;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.fSize1{
+    font-size: 1rem;
+}
+
+.fSize{
+    font-size: 2rem;
+}
+
+.fSize3{
+    font-size: 3rem;
+}
+
+.fSize4{
+    font-size: 4rem;
 }
