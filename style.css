@@ -111,3 +111,10 @@ z-index: -1;
 height:80vh;
 padding-top:4rem;
 }
+
+
+footer{
+    min-height: 15rem;
+    width: auto;
+    color: white;
+}
