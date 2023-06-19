@@ -1,0 +1,7 @@
+git reset HEAD~1
+git add . 
+git commit -m "conflict sonrası"
+git push --force
+
+git status 
+git log 
